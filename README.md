@@ -1,6 +1,6 @@
 # 🌍 Projet EventEarth - Plateforme Évènementielle
 
-Ce projet est une structure de site web statique réalisée en **HTML5 pur**. L'objectif est de proposer une interface fonctionnelle pour la gestion et la consultation d'évènements, sans fioritures ni styles externes.
+Ce projet est une structure de site web statique réalisée en **HTML5 pur**. L'objectif est de proposer une interface fonctionnelle pour la gestion et la consultation d'évènements, sans l'utilisation de CSS.
 
 ---
 
